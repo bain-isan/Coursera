@@ -1,7 +1,9 @@
-Menu 1:
+menu 1:
+
+[AMenu:
 
 Apple
 Banana
-Sandwitch
-Ice cream
+Rose
 School
+Ice cream
