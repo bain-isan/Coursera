@@ -1,0 +1,18 @@
+1,7c1,9
+< Menu 1:
+< 
+< Apple
+< Banana
+< Sandwitch
+< Ice cream
+< School
+---
+> menu 1:
+> 
+> [AMenu:
+> 
+> Apple
+> Banana
+> Rose
+> School
+> Ice cream
