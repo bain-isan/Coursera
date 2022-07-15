@@ -1,0 +1,15 @@
+--- menu1.txt	2022-07-15 09:01:34.735578000 +0530
++++ menu2.txt	2022-07-15 09:02:32.476171600 +0530
+@@ -1,7 +1,9 @@
+-Menu 1:
++menu 1:
++
++[AMenu:
+ 
+ Apple
+ Banana
+-Sandwitch
+-Ice cream
++Rose
+ School
++Ice cream
